@@ -10,5 +10,5 @@ Welcome to my GitHub profile!
 
 ## 📚 Technologies
 - **Languages**: JavaScript, TypeScript, SQL, Java.
-- **Frameworks/Libraries**: Angular, Node.js, ReactJS, and more.
+- **Frameworks/Libraries**: Angular, Node.js, and more.
 - **Tools**: Git, Docker, SourceTree and more.
