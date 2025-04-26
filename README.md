@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9A%80-blue" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white" />
 </p>
