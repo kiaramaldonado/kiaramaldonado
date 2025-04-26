@@ -12,9 +12,6 @@
 🚀 **About Me**  
 I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development**. Passionate about coding, problem-solving, and building amazing applications.  
 
-💡 Always learning and experimenting with new technologies.  
-📫 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/kiaramaldonado)** or check out my work below!  
-
 ---
 
 ## 🌍 My First Real-World Website  
@@ -40,6 +37,7 @@ I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Techni
 
 🛠 **Frameworks & Libraries:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 🔧 **Tools & DevOps:**  
