@@ -11,12 +11,14 @@
 ---
 
 🚀 **About Me**  
-I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development**. Passionate about coding, problem-solving, and building amazing applications.  
+I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development** currently employed by **Dekbera Communications**. Passionate about coding, problem-solving, and building amazing applications.  
 
 ---
 
-## 🌍 My First Real-World Website  
-🎨 Check out **[Dekbera](https://dekbera.es)** – a project I built!  
+## 🌍 My Real-World Websites
+🎨 Check out **[Dekbera](https://dekbera.es)** – first real-world project I built!  
+🏠 Check **[Marley Land Bussiness & Coworking](https://www.marleyland.es)** - with bookings and payment gateway! 
+
 
 ---
 
@@ -26,6 +28,8 @@ I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Techni
 ### 🔹 Tech Stack  
 🔹 **Frontend:** [Angular App](https://github.com/kiaramaldonado/crm_news_front)  
 🔹 **Backend:** [Node.js & Express API](https://github.com/kiaramaldonado/crm_news_back)  
+
+**💬 Message me to have access to a working SQL database!
 
 ---
 
