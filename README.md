@@ -53,16 +53,7 @@ I'm a **Junior Software Developer** and a soon-to-be **Certified Higher Technici
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kiaramaldonado&show_icons=true&theme=radical&cache_seconds=1800" 
-    height="150px" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaramaldonado&layout=compact&theme=radical&cache_seconds=1800" 
-    height="150px" 
-  />
-</p>
+[![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiaramaldonado)](https://github.com/kiaramaldonado/github-readme-stats)
 
 ---
 
