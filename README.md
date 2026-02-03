@@ -52,10 +52,5 @@ I'm a **Junior Software Developer** and a soon-to-be **Certified Higher Technici
 
 ---
 
-## 📊 GitHub Stats  
-[![Kiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiaramaldonado)](https://github.com/kiaramaldonado/github-readme-stats)
-
----
-
 🎯 **Currently working on:** Enhancing my projects and exploring new technologies! 🚀  
 Let's connect and collaborate! 🤝  
