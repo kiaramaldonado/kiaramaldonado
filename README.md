@@ -11,7 +11,7 @@
 ---
 
 🚀 **About Me**  
-I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development** currently employed by **Dekbera Communications**. Passionate about coding, problem-solving, and building amazing applications.  
+I'm a **Junior Software Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development** currently employed by **Dekbera Communications**. Passionate about coding, problem-solving, and building amazing applications.  
 
 ---
 
@@ -54,8 +54,14 @@ I'm a **Junior Full Stack Developer** and a soon-to-be **Certified Higher Techni
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiaramaldonado&show_icons=true&theme=radical" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaramaldonado&layout=compact&theme=radical" height="150px" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kiaramaldonado&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="150px" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaramaldonado&layout=compact&theme=radical&cache_seconds=1800" 
+    height="150px" 
+  />
 </p>
 
 ---
