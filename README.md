@@ -8,30 +8,21 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white" />
 </p>
 
----
-
 🚀 **About Me**  
 I'm a **Junior Software Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development** currently employed by **Dekbera Communications**. Passionate about coding, problem-solving, and building amazing applications.  
-
----
 
 ## 🌍 My Real-World Websites
 🎨 Check out **[Dekbera](https://dekbera.es)** – first real-world project I built!  
 🏠 Check **[Marley Land Bussiness & Coworking](https://www.marleyland.es)** - with bookings and payment gateway! 
 
-
----
-
 ## 🏆 Featured Project: CRM Digital Newspaper  
 📖 A **CRM for Digital News Management**  
 
-### 🔹 Tech Stack  
+### Tech Stack  
 🔹 **Frontend:** [Angular App](https://github.com/kiaramaldonado/crm_news_front)  
 🔹 **Backend:** [Node.js & Express API](https://github.com/kiaramaldonado/crm_news_back)  
 
-**💬 Message me to have access to a working SQL database!
-
----
+💬 Message me to have access to a working SQL database!
 
 ## 📚 Tech Stack & Tools  
 💻 **Languages:**  
