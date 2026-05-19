@@ -71,24 +71,6 @@ const kiara = {
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<!-- Replace `kiaramaldonado` with your actual GitHub username if different -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiaramaldonado&show_icons=true&theme=calm&title_color=7c3aed&icon_color=f59e0b&text_color=374151&bg_color=fafafa&border_color=e5e7eb&hide_border=false&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaramaldonado&layout=compact&theme=calm&title_color=7c3aed&text_color=374151&bg_color=fafafa&border_color=e5e7eb&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kiaramaldonado&theme=calm&hide_border=false&border=e5e7eb&background=fafafa&stroke=7c3aed&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&sideLabels=374151&dates=374151&sideNums=7c3aed)
-
-</div>
-
----
-
 ## 📬 Let's connect
 
 <div align="center">
