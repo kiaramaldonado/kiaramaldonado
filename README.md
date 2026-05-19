@@ -75,7 +75,7 @@ const kiara = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kiara--maldonado.dev-7c3aed?style=for-the-badge&logo=astro&logoColor=white)](https://kiara-maldonado.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kiara--maldonado.dev-7c3aed?style=for-the-badge&logo=astro&logoColor=white)](https://kiaramaldonado.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiara%20Maldonado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiara-maldonado-9a7425268)
 [![TikTok](https://img.shields.io/badge/TikTok-@kiarascript-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kiarascript)
 [![Email](https://img.shields.io/badge/Email-hello@kiaramaldonado.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kiaramaldonado.com)
