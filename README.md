@@ -1,47 +1,113 @@
-<h1 align="center">Hi there, I'm Kiara Maldonado! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9A%80-blue" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white" />
-</p>
+<!-- HEADER WAVE — swap color to match your vibe -->
 
-🚀 **About Me**  
-I'm a **Junior Software Developer** and a soon-to-be **Certified Higher Technician in Multiplatform Application Development** currently employed by **Dekbera Communications**. Passionate about coding, problem-solving, and building amazing applications.  
+![header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=hey,%20I%27m%20Kiara%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Canary%20Islands&descSize=18&descAlignY=58&descColor=e9d5ff)
 
-## 🌍 My Real-World Websites
-🎨 Check out **[Dekbera](https://dekbera.es)** – first real-world project I built!  
-🏠 Check **[Marley Land Bussiness & Coworking](https://www.marleyland.es)** - with bookings and payment gateway! 
+<!-- ANIMATED TYPING ROLES -->
 
-## 🏆 Featured Project: CRM Digital Newspaper  
-📖 A **CRM for Digital News Management**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Cross-Platform+Developer;Java+%7C+Spring+Boot+%7C+React+Native;Building+things+that+actually+work;9.1+GPA+%E2%80%94+graduating+June+2026)](https://git.io/typing-svg)
 
-### Tech Stack  
-🔹 **Frontend:** [Angular App](https://github.com/kiaramaldonado/crm_news_front)  
-🔹 **Backend:** [Node.js & Express API](https://github.com/kiaramaldonado/crm_news_back)  
+</div>
 
-💬 Message me to have access to a working SQL database!
+## 🧠 About me
 
-## 📚 Tech Stack & Tools  
-💻 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-🛠 **Frameworks & Libraries:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-🔧 **Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
+```ts
+const kiara = {
+  location: "Canary Islands, Spain 🌋",
+  role: "Full-Stack & Cross-Platform Developer",
+  education: "DAM @ Salesianos La Cuesta — 9.1 GPA",
+  company: "Dekbera Communications SL",
+  languages: [
+    "Spanish 🇪🇸 (native)",
+    "English 🇬🇧 (C2 · Cambridge)",
+    "German 🇩🇪 (basic)",
+  ],
+  funFact: "I built a Pac-Man game with a Canarian eco-message. Yes, really.",
+  available: "Open to full-time roles from June 2026 ✅",
+};
+```
 
 ---
 
-🎯 **Currently working on:** Enhancing my projects and exploring new technologies! 🚀  
-Let's connect and collaborate! 🤝  
+## 🛠️ Tech stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+| Project                                                                    | What it is                                                                                             | Stack                                           |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| [🚗 CarFleet ERP](https://github.com/kiaramaldonado/rentacar-erp-monorepo) | Hexagonal-architecture ERP for car rental — JavaFX desktop + Spring Boot web + public booking portal   | Java 21 · Spring Boot · JavaFX · MySQL · Docker |
+| [📺 TV Canaria](https://github.com/kiaramaldonado/tvcanaria-frontend)      | Full-stack news video platform with 4 roles, dual auth (JWT + OAuth 2.0) and Cloudinary media pipeline | React Native · Expo · Spring Boot · Java 21     |
+| [🗞️ Guirre Noticiero](https://github.com/kiaramaldonado/crm_news_front)    | Digital newspaper CMS — editorial dashboard + public news site with Nodemailer broadcast on publish    | Angular · Node.js · MySQL · Bootstrap 5         |
+| [🌋 Teidefender](https://github.com/kiaramaldonado/teidefender)            | Pac-Man-style arcade defending Teide National Park — 100% solo dev (code + pixel art + soundtrack)     | Godot 4 · GDScript · SilentWolf                 |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<!-- Replace `kiaramaldonado` with your actual GitHub username if different -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiaramaldonado&show_icons=true&theme=calm&title_color=7c3aed&icon_color=f59e0b&text_color=374151&bg_color=fafafa&border_color=e5e7eb&hide_border=false&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaramaldonado&layout=compact&theme=calm&title_color=7c3aed&text_color=374151&bg_color=fafafa&border_color=e5e7eb&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kiaramaldonado&theme=calm&hide_border=false&border=e5e7eb&background=fafafa&stroke=7c3aed&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&sideLabels=374151&dates=374151&sideNums=7c3aed)
+
+</div>
+
+---
+
+## 📬 Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kiara--maldonado.dev-7c3aed?style=for-the-badge&logo=astro&logoColor=white)](https://kiara-maldonado.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiara%20Maldonado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiara-maldonado-9a7425268)
+[![TikTok](https://img.shields.io/badge/TikTok-@kiarascript-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kiarascript)
+[![Email](https://img.shields.io/badge/Email-hello@kiaramaldonado.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kiaramaldonado.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer)
+
+_Building things from the edge of the world 🌊_
+
+</div>
