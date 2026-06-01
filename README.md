@@ -24,7 +24,6 @@ const kiara = {
     "German 🇩🇪 (basic)",
   ],
   funFact: "I built a Pac-Man game with a Canarian eco-message.",
-  available: "Open to full-time roles from June 2026 ✅",
 };
 ```
 
