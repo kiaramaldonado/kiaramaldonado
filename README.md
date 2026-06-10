@@ -16,7 +16,7 @@
 const kiara = {
   location: "Canary Islands, Spain 🌋",
   role: "Full-Stack & Cross-Platform Developer",
-  education: "DAM @ Salesianos La Cuesta — 9.1 GPA",
+  education: "DAM @ Salesianos La Cuesta — 9.4 GPA",
   company: "Dekbera Communications SL",
   languages: [
     "Spanish 🇪🇸 (native)",
