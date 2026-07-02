@@ -6,7 +6,7 @@
 
 <!-- ANIMATED TYPING ROLES -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Cross-Platform+Developer;Java+%7C+Spring+Boot+%7C+React+Native;Building+things+that+actually+work;9.1+GPA+%E2%80%94+graduating+June+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Cross-Platform+Developer;Java+%7C+Spring+Boot+%7C+React+Native;Building+things+that+actually+work;Valedictorian:+9.4+GPA)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 const kiara = {
   location: "Canary Islands, Spain 🌋",
   role: "Full-Stack & Cross-Platform Developer",
-  education: "DAM @ Salesianos La Cuesta — 9.4 GPA",
+  education: "DAM @ Salesianos La Cuesta — 9.4 GPA (Valedictorian)",
   company: "Dekbera Communications SL",
   languages: [
     "Spanish 🇪🇸 (native)",
