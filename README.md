@@ -56,7 +56,7 @@ Whether I'm working on professional software, exploring new ideas, or contributi
   &nbsp;·&nbsp;
   <a href="https://es.linkedin.com/in/kiara-maldonado-9a7425268">💼 LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://instagram.com/kairascript">📸 Instagram</a>
+  <a href="https://instagram.com/kiarascript">📸 Instagram</a>
   &nbsp;·&nbsp;
   <a href="mailto:hello@kiaramaldonado.com">✉️ Email</a>
 </p>
