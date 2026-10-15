@@ -27,7 +27,7 @@ One of the projects I want to highlight is **OSForCosmos**.
 
 I'm passionate about open-source software and building technology that people can use, explore, and contribute to. OSForCosmos deserves a place front and center on my profile, alongside my professional work and personal projects.
 
-🔭 **Explore:** [OSForCosmos](osforcosmos.org)
+🔭 **Explore:** [OSForCosmos](https://osforcosmos.org)
 
 ## 🛠️ Technologies & Tools
 
